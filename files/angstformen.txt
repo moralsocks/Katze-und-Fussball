@@ -1,0 +1,435 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww17480\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Ablutophobie: Angst, sich zu waschen oder zu baden.\
+Achluophobie: Angst vor Dunkelheit (Lygophobie, Nyctophobie)\
+Aerophobie: Angst vor Zugluft, dem Einatmen von Luft oder vor in der Luft enthaltenen giftigen Substanzen\
+Aeronausiphobie: Angst vor Luftkrankheit\
+Agateophobie: Angst vor Irrsinn\
+Agliophobie: Angst vor Schmerz (Algophobie, Knidophobie, Odynophobie, Ponophobie)\
+Agoraphobie: Angst vor offenen Pl\'e4tzen oder davor, sich in bev\'f6lkerten Umgebungen wie M\'e4rkten aufzuhalten. Auch Angst davor, einen sicheren Ort zu verlassen\
+Agraphobie: Angst vor sexuellem Mi\'dfbrauch\
+Agrizoophobie: Angst vor wilden Tieren\
+Agyrophobie: Angst vor Stra\'dfen oder Stra\'dfen\'fcberquerungen (Dromophobie)\
+Aichmophobie: Angst vor Nadeln oder spitzen Gegenst\'e4nden (Belonephobie, Enetophobie)\
+Ailurophobie oder Elurophobie: Angst vor Katzen (Felinophobie, Galeophobie)\
+Akarophobie: Angst vor dem Jucken oder vor Insekten, die Juckreiz hervorrufen\
+Akerophobie: Angst vor Griesgr\'e4migkeit\
+Akrophobie: H\'f6henangst (Hypsiphobie)\
+Akustikophobie: Angst vor L\'e4rm\
+Albuminurophobie: Angst vor Nierenkrankheiten\
+Algophobie: Angst vor Schmerz (Agliophobie, Knidophobie, Odynophobie, Ponophobie)\
+Alliumphobie: Angst vor Knoblauch\
+Allodoxaphobie: Angst vor Meinungen\
+Amathophobie: Angst vor Staub (Koniophobie)\
+Amaxophobie: Angst vor dem Autofahren\
+Ambulophobie: Angst vor dem Gehen\
+Amnesiphobie: Angst vor Amnesie\
+Amychophobie: Angst davor, zu kratzen oder gekratzt zu werden\
+Anablephobie: Angst aufzublicken\
+Ancraophobie oder Anemophobie: Angst vor Wind\
+Androphobie: Angst vor M\'e4nnern\
+Anemophobie: Angst vor Luftzug oder Wind\
+Anginophobie: Angst vor Angina, Husten oder Verengungen\
+Anglophobie: Angst vor England, englischer Kultur etc.\
+Angrophobie: Angst vor Zorn oder davor, zornig zu werden\
+Ankylophobie: Angst vor Unbeweglichkeit der Gelenke\
+Anthrophobie oder Anthophobie: Angst vor Blumen\
+Anthropophobie: Angst vor Menschen oder der Gesellschaft\
+Antlophobie: Angst vor \'dcberschwemmungen\
+Anuptaphobie: Angst vor dem Alleinbleiben\
+Apeirophobie: Angst vor Unendlichkeit\
+Aphenphosmphobie: Angst davor, ber\'fchrt zu werden (Haphephobie)\
+Apiphobie: Angst vor Bienen\
+Apotemnophobie: Angst vor Personen mit Amputationen\
+Arachibutyrophobie: Angst davor, da\'df Erdnu\'dfbutter am Mundwinkel h\'e4ngenbleibt\
+Arachnephobie oder Arachnophobie: Angst vor Spinnen\
+Arithmophobie: Angst vor Zahlen\
+Arrhenphobie: Angst vor M\'e4nnern\
+Arsonphobie: Angst vor Feuer\
+Asthenophobie: Angst davor, ohnm\'e4chtig oder schwach zu werden\
+Astraphobie oder Astrapophobie: Angst vor Gewitter (auch: Brontophobie, Keraunophobie, Tonitrophobie)\
+Astrophobie: Angst vor den Sternen und vor dem Weltall\
+Asymmetriphobie: Angst vor asymmetrisch geformten Gegenst\'e4nden\
+Ataxophobie: Angst vor Unordnung oder unsauberer Umgebung\
+Atelophobie: Angst vor Unvollst\'e4ndigkeit\
+Atephobie: Angst vor dem Ruin oder vor Ruinen\
+Athazagoraphobie: Angst davor, vergessen oder ingnoriert zu werden oder selbst etwas zu vergessen\
+Atomosophobie: Angst vor Atomexplosionen\
+Atychiphobie: Versagensangst\
+Aulophobie: Angst vor Fl\'f6ten\
+Aurophobie: Angst vor Gold\
+Auroraphobie: Angst vor Nordlichtern\
+Autodysomophobie: Angst vor Menschen mit unangenehmem Geruch\
+Automatonophobie: Angst vor Bauchrednerpuppen, mechanischem Spielzeug, Wachsfiguren und allem, was den falschen Anschein erweckt, ein f\'fchlendes Wesen zu sein\
+Automysophobie: Angst, schmutzig zu sein\
+Autophobie: Angst, allein zu sein, oder vor sich selbst\
+Aviophobie oder Aviatophobie: Flugangst / Angst vor dem Fliegen mittels Flugzeug\
+Bacillophobie: Angst vor Mikroben (Mikrophobie)\
+Bakteriophobie: Angst vor Bakterien\
+Ballistophobie: Angst vor Raketen oder Kugeln\
+Basophobie oder Basiphobie: Angst zu gehen oder zu fallen\
+Bathophobie: Tiefenangst\
+Batophobie: Angst vor Bergen oder vor der N\'e4he hoher Geb\'e4ude\
+Batrachophobie: Angst vor Amphibien\
+Belonephobie: Angst vor Nadeln (auch: Aichmophobie, Enetophobie)\
+Bibliophobie: Angst vor B\'fcchern\
+Blennophobie: Angst vor Schleim (auch: Myxophobie)\
+Bogyphobie: Angst vor Spuk und Gruselgestalten\
+Botanophobie: Angst vor Pflanzen\
+Bromidrosiphobie oder Bromidrophobie: Angst vor K\'f6rperger\'fcchen\
+Brontophobie: Angst vor Blitz und Donner (auch: Astraphobie, Keraunophobie, Tonitrophobie)\
+Bufonophobie: Angst vor Kr\'f6ten\
+Cardiophobie / Herzangst: Angst vor einer Herzerkrankung oder Herzinfarkt Cheimaphobie oder Cheimatophobie: Angst vor K\'e4lte (auch: Frigophobie, Kryophobie, Pagophobie, Psychrophobie)\
+Chemophobie: Angst vor Chemikalien oder davor, mit Chemikalien zu arbeiten\
+Cherophobie: Angst vor Freude\
+Chionophobie: Angst vor Schnee\
+Chiraptophobie: Angst, ber\'fchrt zu werden\
+Chirophobie: Angst vor H\'e4nden\
+Cholerophobie: Angst vor Zorn oder Angst vor Cholera\
+Chorophobie: Angst vor dem Tanzen\
+Chrometophobie oder Chrematophobie: Angst vor Geld\
+Chromophobie oder Chromatophobie: Angst vor Farben\
+Chronophobie: Angst vor der Zeit\
+Cibophobie, Sitophobie oder Sitiophobie: Angst vor Nahrung\
+Counterphobie: die Pr\'e4ferenz von Phobikern f\'fcr furchtbare Situation\
+Cyberphobie: Angst vor Computern\
+Cyclophobie: Angst vor Fahrr\'e4dern\
+Decidophobie: Entscheidungsangst\
+Deipnophobie: Angst vor Essenseinladungen oder Tischgespr\'e4chen\
+Dementophobie: Angst vor Geisteskrankheiten\
+Demonophobie oder Daemonophobie: Angst vor D\'e4monen\
+Demophobie: Angst vor bev\'f6lkerten Pl\'e4tzen (auch: Agoraphobie)\
+Dendrophobie: Angst vor B\'e4umen\
+Dermatophobie: Angst vor Hautverletzungen\
+Dermatosiophobie, Dermatophobie oder Dermatopathophobie: Angst vor Hautkrankheiten\
+Dextrophobie: Angst vor Gegenst\'e4nden an der rechten Seite des K\'f6rpers\
+Didaskaleinophobie: Angst davor, in die Schule zu gehen\
+Dikephobie: Angst vor Gerechtigkeit\
+Dinophobie: Angst vor Schwindel oder Whirlpools\
+Diplophobie: Angst davor, Dinge doppelt zu sehen\
+Dipsophobie: Angst vorm Trinken\
+Dishabiliophobie: Angst davor, in Gegenwart eines anderen unbekleidet zu sein\
+Domatophobie oder Oikophobie: Angst vor H\'e4usern oder davor, sich in H\'e4usern aufzuhalten\
+Doxophobie: Angst vor Meinungs\'e4u\'dferungen oder davor, von anderen gelobt zu werden\
+Dromophobie: Angst davor, Stra\'dfen zu \'fcberqueren (auch: Agyrophobie)\
+Dysmorphophobie: K\'f6rperbildst\'f6rung\
+Dystychiphobie: Unfallangst\
+Ecclesiophobie: Kirchenangst\
+Ecophobie: Angst vor zu Hause\
+Eisoptrophobie: Angst vor Spiegeln oder davor, sich darin selbst zu erblicken (Katoptrophobie)\
+Elektrophobie: Angst vor Elektrizitr\'e4t\
+Eleutherophobie: Angst vor Freiheit\
+Emetophobie: Angst davor, sich zu \'fcbergeben\
+Enetophobie: Angst vor Nadeln (Belonephobie)\
+Enosiophobie oder Enissophobie: Angst davor, eine unverzeihliche S\'fcnde begangen zu haben\
+Entomophobie: Angst vor Insekten (Insektophobie)\
+Enurophobie: Angst, einzun\'e4ssen (Verlust der Kontrolle \'fcber die Blase)\
+Eosophobie: Angst vor der D\'e4mmerung\
+Ephebiphobie: Angst vor Teenagern\
+Epistaxiophobie: Angst vor Nasenbluten\
+Epistemophobie: Angst vor Wissen\
+Eremophobie: Angst vor Einsamkeit\
+Ereuthrophobie: Angst davor, zu err\'f6ten\
+Ergasiophobie: Angst davor, zu arbeiten oder zu \'93funktionieren\'94 sowie Angst eines Chirurgen vor der Operation\
+Ergophobie: Angst vor der Arbeit\
+Erotophobie: Angst vor Sexualit\'e4t\
+Eurotophobie: Angst vor weiblichen Geschlechtsteilen\
+Erythrophobie, Erytophobie oder Ereuthophobie: Angst vor Rotlicht oder vorm Err\'f6ten\
+Febriphobie, Fibriphobie oder Fibriophobie: Angst vor Fieber\
+Felinophobie: Angst vor Katzen (Ailurophobie, Galeophobie)\
+Frankophobie: Angst vor Frankreich, franz\'f6sischer Kultur etc. (Gallophobie)\
+Frigophobie: Angst vor K\'e4lte (Cheimaphobie, Kryophobie, Pagophobie, Psychrophobie)\
+Galeophobie oder Gatophobie: Angst vor Katzen (Ailurophobie, Felinophobie)\
+Gallophobie oder Galiophobie: Angst vor Frankreich, franz\'f6sischer Kultur etc. (Frankophobie)\
+Gamophobie: Angst vor der Ehe\
+Geliophobie: Angst zu lachen\
+Geniophobie: Angst vor Kinnen\
+Genophobie: Angst vor Sexualit\'e4t\
+Genuphobie: Angst vor Knien\
+Gephyrophobie, Gephydrophobie oder Gephysrophobie: Angst davor, Br\'fccken zu \'fcberqueren\
+Germanophobie: Angst vor Deutschland, deutscher Kultur etc. (Teutophobie)\
+Geraskophobie: Angst vor dem Altwerden\
+Gerontophobie: Angst vor alten Leuten oder dem Altwerden\
+Glossophobie: Angst davor, in der \'d6ffentlichkeit zu sprechen\
+Gnosiophobie: Angst vor Wissen\
+Graphophobie: Angst vorm Schreiben\
+Gymnophobie: Angst vor Nacktheit\
+Gynephobie oder Gynophobie: Angst vor Frauen\
+Hadephobie: Angst vor der H\'f6lle\
+Hagiophobie: Angst vor Heiligen\
+Hamartophobie: Angst zu s\'fcndigen\
+Haphephobie oder Haptephobie: Angst davor, ber\'fchrt zu werden\
+Harpaxophobie: Angst davor, \'fcberfallen zu werden\
+Hedonophobie: Angst davor, sich wohlzuf\'fchlen\
+Heliophobie: Angst vor der Sonne\
+Hellenologophobie: Angst vor griechischen Begriffen oder komplexer wissenschaftlicher Terminologie\
+Helminthophobie: Angst davor, von W\'fcrmern heimgesucht zu werden (Scoleciphobie)\
+Hemophobie, Hemaphobie oder Hematophobie: Angst vor Blut\
+Heresyphobie oder Hereiophobie: Angst vor offiziellen Doktrinen oder der radikalen Abweichung davor\
+Herpetophobie: Angst vor Reptilien oder anderen kriechenden Wesen\
+Herzangst bzw. Cardiophobie: Angst vor einer Herzerkrankung oder Herzinfarkt Heterophobie: Angst vor dem anderen Geschlecht (Sexophobie)\
+Hierophobie: Angst vor Priestern oder heiligen Gegenst\'e4nden\
+Hippophobie: Angst vor Pferden\
+Hippopotomonstrosesquippedaliophobie: Angst vor langen W\'f6rtern (Sesquipedalophobie)\
+Homichlophobie: Angst vor Nebel (Nebulaphobie)\
+Hominophobie: Angst vor Menschen\
+Homophobie: Angst vor Gleichheit, Monotonie oder vor Homosexualit\'e4t\
+Hoplophobie: Angst vor Schu\'dfwaffen\
+Hormephobie: Angst vor Schocks\
+Hydrargyophobie: Angst vor quecksilberhaltiger Medizin\
+Hyelophobie oder Hyalophobie: Angst vor Glas (Krystallophobie)\
+Hygrophobie: Angst vor Fl\'fcssigkeit, Feuchtigkeit\
+Hylephobie: Angst vor Materialismus oder Epilepsie\
+Hylophobie: Angst vor W\'e4ldern\
+Hypengyophobie oder Hypegiaphobie: Angst vor Verwantwortung\
+Hypnophobie: Angst vor Schlaf oder Hypnose\
+Hypsiphobie: H\'f6henangst (Akrophobie)\
+Iatrophobie: Angst vor \'c4rzten\
+Ichthyophobie: Angst vor Fischen\
+Illyngophobie: Angst vor Schwindel\
+Iophobie: Angst vor Gift (Toxiphobie)\
+Insektophobie: Angst vor Insekten (Entomophobie)\
+Isolophobie: Angst vor der Einsamkeit\
+Isopterophobie: Angst vor Termiten oder anderen Insekten, die Holz essen\
+Ithyphallophobie: Angst davor, einen eregierten Penis zu haben, zu sehen oder daran zu denken (Medorthophobie, Phallophobie)\
+Japanophobie: Angst vor Japanern, jap. Kultur etc.\
+Judeophobie: Angst vor Juden, j\'fcdischer Kultur etc.\
+Kainolophobie oder Kainophobie: Angst vor Neuem und Neuigkeiten\
+Kakophobie: Angst vor H\'e4\'dflichkeit\
+Kakorrhaphiophobie: Angst zu versagen\
+Kaligynephobie: Angst vor sch\'f6nen Frauen\
+Karzinophobie: Angst vor Krebs\
+Karnophobie: Angst vor Fleisch\
+Katagelophobie: Angst vor Spott\
+Kathisophobie: Angst, sich hinzusetzen\
+Katoptrophobie: Angst vor Spiegeln (Eisoptrophobie)\
+Kenophobie oder Kentophobie: Angst vor neuen Gegenst\'e4nden oder Gedanken, Angst vor Leere\
+Keraunophobie: Angst vor Blitz und Donner (Astraphobie, Brontophobie, Tonitrophobie)\
+Kinetophobie oder Kinesophobie: Angst vor Bewegung\
+Klaustrophobie: Angst vor geschlossenen R\'e4umen\
+Kleptophobie: Angst vor Diebstahl\
+Klimakophobie: Angst vor Treppen, dem Klettern oder dem Fallen\
+Klinophobie: Angst davor, ins Bett zu gehen\
+Knidophobie: Angst vor Schmerz (Agliophobie, Algophobie, Odynophobie, Ponophobie)\
+Koimetrophobie: Angst vor Friedh\'f6fen\
+Koinoniphobie: Angst vor R\'e4umen\
+Koitophobie: Angst vor Geschlechtsverkehr\
+Kolpophobie: Angst vor (weiblichen) Genitalien\
+Koniophobie: Angst vor Staub (Amathophobie)\
+Kontreltophobie: Angst vor sexuellem Mi\'dfbrauch\
+Kopophobie: Angst vor M\'fcdigkeit\
+Koprastasophobie: Angst vor Verstopfung\
+Koprophobie: Angst vor F\'e4kalien\
+Koulrophobie: Angst vor Clowns\
+Kremnophobie: Angst vor Abgr\'fcnden\
+Kryophobie: Angst vor extremer K\'e4lte, Eis oder Frost (Cheimaphobie, Frigophobie, Pagophobie, Psychrophobie)\
+Krystallophobie: Angst vor Kristall, Glas (Hyelophobie)\
+Kymophobie: Angst vor Wellen\
+Kynophobie: Angst vor Hunden oder Tollwut (Lyssophobie)\
+Kyphophobie: Angst vor Erniedrigung\
+Kypridophobie, Kypriphobie, Kyprianophobie oder Kyprinophobie: Angst vor Prostituierten oder Geschlechtskrankheiten\
+Lachanophobie: Angst vor Gem\'fcse\
+Laliophobie oder Lalophobie: Angst zu sprechen\
+Leukophobie: Angst vor der Farbe Wei\'df\
+Levophobie: Angst vor Dingen zur linken Hand\
+Ligyrophobie: Angst vor lautem L\'e4rm\
+Lilapsophobie: Angst vor Wirbelst\'fcrmen\
+Limnophobie: Angst vor Seen\
+Linonophobie: Angst vor Bindf\'e4den\
+Liticaphobie: Angst vor Prozessen\
+Lockiophobie: Angst vor Geburten (Parturiphobie)\
+Logizomechanophobie: Angst vor Computern\
+Logophobie: Angst vor W\'f6rtern\
+Luiphobie: Angst vor Syphilis (Syphilophobie)\
+Lutraphobie: Angst vor Ottern\
+Lygophobie: Angst vor Dunkelheit (Achluophobie, Nyctophobie)\
+Lyssophobie: Angst vor Tollwut oder davor, verr\'fcckt zu werden (Kynophobie)\
+Mageirocophobie: Angst zu kochen.\
+Makrophobie: Angst vor langem Warten\
+Malaxophobie: Angst vor Liebesspielen (Sarmassophobie)\
+Maniaphobie: Angst vor dem Wahnsinn (Meningitophobie)\
+Mastigophobie: Angst vor Bestrafung\
+Mechanophobie: Angst vor Maschinen\
+Medorthophobie: Angst vor einem eregierten Penis (Ithypallophobie, Phallophobie)\
+Megalophobie: Angst vor gro\'dfen Gegenst\'e4nden\
+Melissophobie: Angst vor Bienen\
+Melanophobie: Angst vor der Farbe Schwarz\
+Melophobie: Angst vor Musik\
+Meningitophobie: Angst vor Geisteskrankheiten (Maniaphobie)\
+Menophobie: Angst vor der Menstruation\
+Merinthophobie: Angst davor, gefesselt zu werden\
+Metallophobie: Angst vor Metall\
+Metathesiophobie: Angst vor Wechsel\
+Meteorophobie: Angst vor Meteoren\
+Metrophobie: Angst vor Poesie\
+Mikrobiophobie: Angst vor Mikroben (Bacillophobie)\
+Mikrophobie oder Mycrophobie: Angst vor kleinen Dingen\
+Misophobie: Angst vor biologischer Kontamination\
+Mnemophobie: Angst vor Erinerungen\
+Molysmophobie oder Molysomophobie: Angst vor Keimen oder Kontamination (Mysophobie)\
+Monophobie: Angst vor Einsamkeit\
+Motorphobie: Angst vor Autos\
+Musophobie oder Murophobie: Angst vor M\'e4usen (Suriphobie)\
+Mycophobie: Angst vor Pilzen\
+Myrmecophobie: Angst vor Ameisen\
+Mysophobie: Angst vor Keimen, Kontamination oder Schmutz (Molysmophobie)\
+Mythophobie: Angst vor Mythen, Falschausagen\
+Myxophobie: Angst vor Schleim (Blennophobie)\
+Nebulaphobie: Angst vor Nebel (Homichlophobie)\
+Nekrophobie: Todesangst oder Angst vor Toten\
+Nelophobie: Angst vor Glas\
+Neopharmaphobie: Angst vor neuen Drogen\
+Nephophobie: Angst vor Wolken\
+Noctiphobie: Angst vor der Nacht\
+Nosocomephobie: Angst vor Krankenh\'e4usern\
+Nostophobie: Angst vor dem Nachhausekommen\
+Novercaphobie: Angst vor der Stiefmutter\
+Nukleomituphobie: Angst vor Nuklearwaffen\
+Nudophobie: Angst vor Nacktheit\
+Numerophobie: Angst vor Zahlen\
+Nyctohylophobie: Angst vor dem n\'e4chtlichen Wald\
+Nyctophobie: Angst vor der Dunkelheit oder der Nacht (Achluophobie, Lygophobie)\
+Obesophobie: Angst davor zuzunehmen\
+Odontophobie: Angst vor Z\'e4hnen oder zahn\'e4rtzlicher Behandlung\
+Odynophobie oder Odynephobie: Angst vor Schmerz (Agliophobie, Algophobie, Knidophobie, Ponophobie)\
+Oktophobie: Angst vor der Zahl acht\
+Olfaktophobie: Angst vor Ger\'fcchen\
+Oneirophobie: Angst vor Tr\'e4umen\
+Ophidiophobie: Angst vor Schlangen\
+Ophthalmophobie: Angst davor, angestarrt zu werden\
+Ornithophobie: Angst vor V\'f6geln\
+Orthophobie: Angst vor Eigentum\
+Ostraconophobie: Angst vor Schellfisch\
+Ouranophobie: Angst vor dem Himmel\
+Pagophobie: Angst vor K\'e4lte und Eis (Cheimaphobie, Frigophobie, Kryophobie, Psychrophobie)\
+Panthophobie: Angst vor Leid und Krankheit\
+Panophobie oder Pantophobie: Angst vor allem\
+Papaphobie: Angst vor dem Papst\
+Papyrophobie: Angst vor Papier\
+Paralipophobie: Angst davor, Aufgaben vernachl\'e4ssigt zu haben, oder vor Verantwortung\
+Paraphobie: Angst vor sexueller Perversion\
+Paraskavedekatriaphobie: Angst vor Freitag, dem dreizehnten\
+Parthenophobie: Angst vor Jungfrauen oder jungen M\'e4dchen\
+Pathophobie: Angst vor Krankheiten\
+Patroiophobie: Angst vor Erblichkeit\
+Parturiphobie: Angst vor Geburt (Lockiophobie)\
+Peccatophobie: Angst zu s\'fcndigen\
+Pediophobie: Angst vor Puppen\
+Pedophobie: Angst vor Kindern\
+Peladophobie: Angst vor nackten Menschen\
+Peniaphobie: Angst vor Armut\
+Pentheraphobie: Angst vor Schwiegerm\'fcttern\
+Phagophobie: Angst davor, sich zu \'fcbergeben, vor Essen oder davor, gegessen zu werden\
+Phalacrophobie: Angst davor, kahl zu werden\
+Phallophobie: Angst vor Errektionen (Ithyphallophobie, Medorthophobie)\
+Pharmakophobie: Angst davor, Medizin einzunehmen\
+Phasmophobie: Angst vor Geistern (Spektrophobie)\
+Phengophobie: Angst vor Tageslicht oder Sonnenlicht\
+Philemaphobie oder Philematophobia: Angst zu k\'fcssen\
+Philophobie: Angst davor, sich zu verlieben\
+Philosophobie: Angst vor Philosophie\
+Phobophobie: Angst vor \'c4ngsten\
+Photoaugliaphobie: Angst vor hellem Licht\
+Photophobie: Angst vor Licht\
+Phonophobie: Angst vor L\'e4rm, Stimmen oder vor dem Telefon\
+Phronemophobie: Angst zu denken\
+Phthiriophobie: Angst vor L\'e4usen\
+Placophobie: Angst vor Grabsteinen\
+Plutophobie: Angst vor Reichtum\
+Pluviophobie: Angst vor Regen\
+Pneumatiphobie: Angst vor Geistern (Spektrophobie)\
+Pnigophobie oder Pnigerophobie: Angst zu ersticken\
+Pogonophobie: Angst vor B\'e4rten\
+Poliosophobie: Angst vor einer Polio-Infektion\
+Polyphobie: Angst vor vielen Dingen\
+Ponophobie: Angst vor \'dcberarbeitung oder Schmerzen (Agliophobie, Algophobie, Knidophobie, Odynophobie)\
+Porphyrophobie: Angst vor der Farbe Lila\
+Potamophobie: Angst vor Fl\'fcssen, flie\'dfendem Wasser\
+Potophobie: Angst vor Alkohol\
+Pharmakophobie: Angst vor Drogen\
+Proktophobie: Angst vor Darmerkrankungen\
+Prosophobie: Angst vor Fortschritt\
+Psellismophobie: Angst zu stottern\
+Psychophobie: Angst vor Verstand\
+Psychrophobie: Angst vor K\'e4lte (Cheimaphobie, Frigophobie, Kryophobie, Pagophobie)\
+Pteromerhanophobie: Flugangst\
+Pteronophobie: Angst davor, von Federn gekitzelt zu werden\
+Pupaphobie: Angst vor Puppen\
+Pyrexiophobie: Angst vor Fieber\
+Pyrophobie: Angst vor Feuer\
+Radiophobie: Angst vor Strahlen\
+Rektophobie: Angst vor Darmerkrankungen\
+Rhabdophobie: Angst davor, bestraft, geschlagen oder kritisiert zu werden, Angst vor Magie\
+Rhypophobie: Angst vor dem Stuhlgang\
+Rhytiphobie: Angst davor, Pickel zu bekommen\
+Rupophobie: Angst vor Schmutz\
+Russophobie: Angst vor Russen, ihrer Kultur etc.\
+Samhainophobie: Angst vor Halloween\
+Sarmassophobi: Angst vor Liebesspielen (Malaxophobie)\
+Satanophobie: Angst vor dem Teufel\
+Sciophobie oder Sciaphobie: Angst vor Schatten\
+Scoleciphobie: Angst vor W\'fcrmern\
+Scolionophobie: Angst vor der Schule\
+Scotomaphobie: Angst vor Erblindung\
+Scotophobie: Angst vor Dunkelheit (Achluophobie)\
+Selachophobie: Angst vor Haien\
+Selenophobie: Angst vor dem Mond\
+Seplophobie: Angst vor verrottender Materie\
+Sesquipedalophobie: Angst vor langen W\'f6rtern (Hippopotomonstrosesquippedaliophobie)\
+Sexophobie: Angst vor dem anderen Geschlecht (Heterophobie)\
+Siderodromophobie: Angst vor Zugfahrten\
+Siderophobie: Angst vor den Sternen\
+Sinophobie: Angst vor Chinesen, ihrer Kultur etc.\
+Soceraphobie: Angst vor den Schwiegereltern\
+Soteriophobie: Angst vor Abh\'e4ngigkeit von anderen\
+Sozialphobie: Angst vor zwischenmenschlichen Kontakten\
+Spektrophobie: Angst vor Geistern (Pneumatiphobie)\
+Spheksophobie: Angst vor Wespen\
+Stasibasiphobie oder Stasiphobie: Angst davor, stehenzubleiben oder zu gehen (Ambulophobie)\
+Staurophobie: Angst vor Kreuzen oder dem Kruzifix\
+Stygiophobie oder Stigiophobie: Angst vor der H\'f6lle\
+Suriphobie: Angst vor M\'e4usen (Musophobie)\
+Symmetrophobie: Angst vor Symmetrie\
+Syngenesophobie: Angst vor Verwandten\
+Syphilophobie: Angst vor Syphilis (Luiphobie)\
+Tachophobie: Angst vor Geschwindigkeit\
+Taphephobie oder Taphophobie: Angst davor, lebendig begraben zu werden, oder vor Friedh\'f6fen\
+Teleophobie: Angst vor Endg\'fcltigkeit\
+Telephonophobie: Angst vor Telefonen\
+Teratophobie: Angst davor, ein mi\'dfgebildetes Kind zu bekommen, oder vor Mi\'dfgebildeten\
+Teutophobie: Angst vor Deutschen, deutscher Kultur etc. (Germanophobie)\
+Thalassophobie: Angst vor dem Meer\
+Thanatophobie oder Thantophobie: Angst vor dem Tod\
+Theatrophobie: Angst vor Theatern\
+Theophobie: Angst vor G\'f6ttern oder Religion\
+Thermophobie: Angst vor Hitze\
+Tomophobie: Angst vor chirurgischen Eingriffen\
+Tonitrophobie: Angst vor dem Donner (Astraphobie, Brontophobie, Keraunophobie)\
+Topophobie: Angst vor bestimmten Orten oder Situationen, zum Beispiel B\'fchnenangst\
+Toxiphobie, Toxophobie oder Toxicophobie: Angst vor Gift oder davor, versehentlich vergiftet zu werden (Iophobie)\
+Traumatophobie: Angst vor Verletzung\
+Triskaidekaphobie: Angst vor der Zahl dreizehn\
+Tripophobie (Trypophobia): Angst vor Lochstrukturen\
+Tropophobie: Angst vor Ver\'e4nderung\
+Trypanophobie: Angst vor Injektionen\
+Uranophobie: Angst vor dem Himmel\
+Urophobie: Angst vor Urin oder vor dem Urinieren\
+Vaccinophobie: Angst vor Impfung\
+Venustraphobie: Angst vor sch\'f6nen Frauen (Kaligynephobie)\
+Vestiphobie: Angst vor Bekleidung\
+Virginitiphobie: Angst vor Vergewaltigung\
+Vitricophobie: Angst vor Stiefv\'e4tern\
+Wallonophobie: Angst vor Wallonen\
+Wiccaphobie: Angst vor Hexen und Hexerei\
+Xanthophobie: Angst vor der Farbe Gelb oder dem Wort gelb\
+Xenophobie: Angst vor Fremden oder Ausl\'e4ndern\
+Xerophobie: Angst vor Trockenheit\
+Xylophobie: Angst vor h\'f6lzernen Gegenst\'e4nden\
+Xyrophobie: Angst vor Rasierern\
+Zelophobie: Angst vor Eifersucht\
+Zemmiphobie: Angst vor Maulw\'fcrfen.\
+Zoophobie: Angst vor Tieren}
