@@ -1,2 +1,2 @@
 # Katze-und-Fussball
-Building an open platform for creative writing, work in progess!!
+Building an open platform for creative writing in javascript, work in progess!!
